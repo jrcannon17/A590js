@@ -1,0 +1,59 @@
+
+/*Filename: Lab1.js *
+ *Part of: Lab1 A590js program *
+ *Created by: Joshua Cannon *
+ *Created on: 03/05/2019 *
+ *Last Modified by: Joshua Cannon *
+ *Last Modified on:
+ */
+console.log("    _\n ('v')\n (( ))\n-/-\"---\"--\n");
+//return some chars with new lines
+console.log(Infinity + 3);
+// adds 3 to a string called infinity 
+
+console.log( typeof Infinity );
+// claims Infinite type
+console.log( typeof 4.5 );
+//outputs float int
+console.log( typeof 3 );
+//outputs int type
+console.log( 3 / 0 );
+// error message 
+console.log( -3 / 0 );
+// error message 
+console.log( Infinity - Infinity );
+//outputs 0
+console.log( 0 / 0 );
+// Infinity 
+console.log( typeof NaN );
+// Not a number type
+console.log( Math.random() < 0.5 ? "heads" : "tails" );
+//outputs heads or tails by random chance set at 50 percent
+console.log( typeof undefined );
+// undefined 
+console.log( typeof null );
+// outputs Null
+console.log(8 * null);
+//outputs Null
+console.log("5" - 1);
+//outputs string -1 
+console.log("5" + 1);
+//outputs string + 1
+console.log("couch" * 2);
+//outputs two couches
+console.log(false == 0);
+//sets FALSE to 0
+console.log(null == undefined);
+//error?
+console.log(null == 0);
+//replaces FALSE? 
+console.log(undefined == 0);
+//error because undefined already taken?
+console.log(null || "user");
+// User is not null, it is a string
+console.log("Karl" || "user");
+//Karl is not a null user
+console.log(undefined || "tomato");
+// tomato is not a defined value
+console.log("tomato" &&"pasta");
+//tomatato pasta concat 
