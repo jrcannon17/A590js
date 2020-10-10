@@ -1,0 +1,24 @@
+
+[ { 
+	"Fname" : "Josh",
+    "Lname" : "Canton"
+	"age"  : 31
+	"Address":{
+	"Street" : "304 Perimeter Dr."
+	"City" : "Golmout"
+	"State": "Kentucky"
+	
+  }, 
+  "Occupation": ["Self Employed","Mechanic"]
+ {
+    "name" : "Leslie",
+    "Lname" : "Loader"
+	"age"  : 33
+	"Address":{
+	"Street" : "304 Perimeter Dr."
+	"City" : "Golmout"
+	"State": "Kentucky"
+	
+  },
+  "Occupation": ["Self Employed","Salon Stylist"]
+]
